@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad AL-Shboul</h1>
 <h3 align="center">A passionate Flutter developer from Jordan</h3>
 
-<img  src="![image](https://github.com/MohammadALShboul99/MohammadALShboul99/assets/110593677/351bfcd4-250a-4145-832a-016cbe0984b1) alt="Animated GIF">
+<img  src="![image](https://github.com/MohammadALShboul99/MohammadALShboul99/assets/110593677/351bfcd4-250a-4145-832a-016cbe0984b1) alt="Animated GIF"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadalshboul99&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadalshboul99" /> </p>
 
