@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammad AL-Shboul</h1>
 <h3 align="center">A passionate Flutter developer from Jordan</h3>
 
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.wNGxHlTCsH9zU90WDouoDQHaFj?w=258&h=194&c=7&r=0&o=5&dpr=1.3&pid=1.7"/>
 - 💬 Ask me about **Flutter**
 -  👀 I’m interested in App development
 - 🌱 I’m currently learning Flutter
 - 📫 My Facebook: https://web.facebook.com/mohammed.shboul.9/
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tYWHGxw_UetFvQ582ewdgEe8leIIYQ3V/view?usp=sharing](https://drive.google.com/file/d/1tYWHGxw_UetFvQ582ewdgEe8leIIYQ3V/view?usp=sharing)
+
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.wNGxHlTCsH9zU90WDouoDQHaFj?w=258&h=194&c=7&r=0&o=5&dpr=1.3&pid=1.7"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
