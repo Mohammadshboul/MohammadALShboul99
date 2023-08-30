@@ -4,6 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadalshboul99&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadalshboul99" /> </p>
 
 - 💬 Ask me about **Flutter**
+-  👀 I’m interested in App development
+- 🌱 I’m currently learning Flutter
+- 📫 My Facebook: https://web.facebook.com/mohammed.shboul.9/
 
 - 📫 How to reach me **shboulmohammed@gmail.com**
 
