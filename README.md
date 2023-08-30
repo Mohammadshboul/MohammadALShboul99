@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad AL-Shboul</h1>
 <h3 align="center">A passionate Flutter developer from Jordan</h3>
 
-<img align="right" alt="Coding Freak GIF" width="400" src="https://th.bing.com/th/id/OIP.wNGxHlTCsH9zU90WDouoDQHaFj?w=258&h=194&c=7&r=0&o=5&dpr=1.3&pid=1.7.gif"/>
+<img align="right" alt="Coding Freak GIF" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"/>
 
 
 
