@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad AL-Shboul</h1>
 <h3 align="center">A passionate Flutter developer from Jordan</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/MohammadALShboul99/MohammadALShboul99/assets/110593677/3c924824-0d07-4da7-ab5b-8394ccb7c4f0)
-
->
+<img align="right" alt="coding" width="400" src="![image](https://github.com/MohammadALShboul99/MohammadALShboul99/assets/110593677/3c924824-0d07-4da7-ab5b-8394ccb7c4f0)>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadalshboul99&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadalshboul99" /> </p>
 
